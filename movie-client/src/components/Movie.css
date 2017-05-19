@@ -1,0 +1,9 @@
+.Movie-comp {
+	border: 1px solid black;
+	text-align: center;
+}
+
+.Movie-comp p {
+	font-size: 11px;
+}
+

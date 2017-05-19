@@ -1,0 +1,12 @@
+.MovieRow-sect h3 {
+	text-align: left;
+}
+
+.MovieRow-row {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.MovieRow-row > div {
+	flex: 1;
+}
